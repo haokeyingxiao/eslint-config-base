@@ -1,7 +1,7 @@
 {
-  "name": "@shopware-ag/eslint-config-base",
+  "name": "@haokeyingxiao/eslint-config-base",
   "version": "2.0.0",
-  "description": "Common webpack configuration for several Shopware related projects",
+  "description": "Common webpack configuration for several HaoKe related projects",
   "main": "index.js",
   "author": "klarstil",
   "license": "MIT",
